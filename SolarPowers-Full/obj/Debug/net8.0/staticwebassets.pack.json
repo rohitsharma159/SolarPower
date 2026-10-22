@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/seed.json",
+      "PackagePath": "staticwebassets/seed.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.SolarPowers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.SolarPowers.props",
+      "PackagePath": "build\\SolarPowers.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SolarPowers.props",
+      "PackagePath": "buildMultiTargeting\\SolarPowers.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SolarPowers.props",
+      "PackagePath": "buildTransitive\\SolarPowers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

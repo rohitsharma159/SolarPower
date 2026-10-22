@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "uPz6HiwncDLgDII7gRf16aQEwxKIxnJ71tO48u7S/4M=",
+  "Source": "SolarPowers",
+  "BasePath": "_content/SolarPowers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SolarPowers/wwwroot",
+      "Source": "SolarPowers",
+      "ContentRoot": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/",
+      "BasePath": "_content/SolarPowers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/index.html",
+      "SourceId": "SolarPowers",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/",
+      "BasePath": "_content/SolarPowers",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/seed.json",
+      "SourceId": "SolarPowers",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mistaken/Downloads/SolarPowers-Full/wwwroot/",
+      "BasePath": "_content/SolarPowers",
+      "RelativePath": "seed.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/seed.json"
+    }
+  ]
+}
